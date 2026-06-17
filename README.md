@@ -1,5 +1,9 @@
 # Data88e-online
 
+> [!WARNING]
+> This repository is archived and no longer maintained.
+> Active development moved to [xDevs](https://github.com/edx-berkeley/88E-student).
+
 This is the repository for the DataX version of Data 88E for Summer 2024 being built by Professor Van Dusen and Akhil Venkatesh.
 
 The intention is that this will utilize otterv4 and open on the Data8X datahub.
